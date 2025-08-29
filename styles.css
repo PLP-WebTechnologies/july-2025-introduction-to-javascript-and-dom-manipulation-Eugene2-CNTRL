@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+    white-space: pre-line;
+    /* to preserve newlines in output */
+}
+
+button {
+    margin-right: 10px;
+}
